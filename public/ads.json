@@ -1,0 +1,53 @@
+{
+  "siteId": "6211071",
+  "domain": "free-percentage-calculator.web-free.site",
+  "units": {
+    "popunder": {
+      "type": "script",
+      "src": "https://abscloud.org/1/284d6009a28209d283463a35066b12dc"
+    },
+    "socialBar": {
+      "type": "script",
+      "src": "https://bauval.org/14/229e3d8b47573b1b852c08dbc50e78a6"
+    },
+    "native": {
+      "type": "native",
+      "scriptSrc": "https://bauval.org/21/6f286bbf65e7548c5ffa2d6f1a2fd13a",
+      "containerId": "container-6f286bbf65e7548c5ffa2d6f1a2fd13a"
+    },
+    "smartlink": {
+      "type": "smartlink",
+      "url": "https://araplhn.org/4/e1073fba3c0f993a37cbf4c3a2768be7"
+    },
+    "banner728x90": {
+      "key": "a552ad9d69a9f2aec3548c08e96a25a4",
+      "width": 728,
+      "height": 90
+    },
+    "banner468x60": {
+      "key": "1ae452cd2fe4c91adf82d62e52798eff",
+      "width": 468,
+      "height": 60
+    },
+    "banner300x250": {
+      "key": "acd3ba346ed80934be846527ca3b91d1",
+      "width": 300,
+      "height": 250
+    },
+    "banner160x600": {
+      "key": "a28763f5b5189d62188149d136e12f29",
+      "width": 160,
+      "height": 600
+    },
+    "banner160x300": {
+      "key": "ca1cd3f651e44134aeba894a1cfaf7f7",
+      "width": 160,
+      "height": 300
+    },
+    "banner320x50": {
+      "key": "ee2c591ffb27e373aa69115e21341742",
+      "width": 320,
+      "height": 50
+    }
+  }
+}

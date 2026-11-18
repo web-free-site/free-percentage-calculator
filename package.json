@@ -1,0 +1,25 @@
+{
+  "name": "free-percentage-calculator",
+  "version": "1.0.0",
+  "description": "Free Percentage Calculator — client-side tool for web-free.site",
+  "type": "module",
+  "main": "src/percentage-calculator.js",
+  "scripts": {
+    "test": "node --test test/percentage-calculator.test.js",
+    "build:site": "node scripts/build-site.mjs",
+    "prestart": "npm run build:site",
+    "start": "npx wrangler dev --local-protocol http"
+  },
+  "exports": {
+    ".": "./src/percentage-calculator.js"
+  },
+  "keywords": [
+    "percentage",
+    "calculator",
+    "cloudflare-workers"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
