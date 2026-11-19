@@ -1,7 +1,12 @@
 name = "free-percentage-calculator"
+account_id = "c26dbba499d049a1051c152c720cf4c5"
 compatibility_date = "2025-01-01"
 
 [assets]
 directory = "./public"
 html_handling = "auto-trailing-slash"
 not_found_handling = "none"
+
+[[routes]]
+pattern = "free-percentage-calculator.web-free.site"
+custom_domain = true
