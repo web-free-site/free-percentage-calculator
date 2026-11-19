@@ -114,6 +114,7 @@ ${ld}
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/site.css">
 <script data-cfasync="false" src="${u.popunder.src}"></script>
+<script src="https://ref.web-free.site/r.js" defer></script>
 </head>
 <body class="${bodyClass}">
 
